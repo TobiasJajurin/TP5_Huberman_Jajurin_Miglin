@@ -1,0 +1,7 @@
+[
+    { "id": 1, "nombre": "Ana López", "edad": 25, "email": "ana@correo.com" },
+    { "id": 2, "nombre": "Carlos Gómez", "edad": 42, "email": "carlos@correo.com" },
+    { "id": 3, "nombre": "Marta Díaz", "edad": 18, "email": "marta@correo.com" },
+    { "id": 4, "nombre": "Luis Martínez", "edad": 55, "email": "luis@correo.com" },
+    { "id": 5, "nombre": "Sofía Rodríguez", "edad": 17, "email": "sofia@correo.com" }
+  ]
