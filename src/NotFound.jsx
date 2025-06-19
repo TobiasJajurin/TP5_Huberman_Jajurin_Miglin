@@ -1,5 +1,5 @@
 function NotFound() {
-    return <h2>No encontramos lo que buscás 😕</h2>;
+    return <h2>pagina no encontrada angie!!</h2>;
   }
   
   export default NotFound;
